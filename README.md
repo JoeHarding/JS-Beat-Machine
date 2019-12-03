@@ -1,2 +1,2 @@
 # JS-Beat-Machine
-Concept built using JS,HTML, CSS.
+Concept built using JS HTML and CSS.
